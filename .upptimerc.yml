@@ -5,7 +5,11 @@ repo: status.justinclicks.com # The name of this repository
 sites:
   - name: JustInClicks.com
     url: https://www.justinclicks.com
+  - name: Bank API V1
+    url: https://bank-apis.justinclicks.com/API/V1/
 
+    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
