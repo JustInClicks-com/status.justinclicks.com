@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.justinclicks.com",
     "slug": "just-in-clicks-com",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 333,
-    "timeDay": 186,
-    "timeWeek": 265,
-    "timeMonth": 329,
-    "timeYear": 333,
+    "uptimeYear": "99.99%",
+    "time": 331,
+    "timeDay": 208,
+    "timeWeek": 249,
+    "timeMonth": 326,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2021-09-14": 12
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 276,
+    "timeDay": 166,
     "timeWeek": 206,
-    "timeMonth": 175,
+    "timeMonth": 174,
     "timeYear": 172,
     "dailyMinutesDown": {}
   }
