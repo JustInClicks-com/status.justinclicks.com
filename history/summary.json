@@ -4,7 +4,7 @@
     "url": "https://www.justinclicks.com",
     "icon": "https://favicons.githubusercontent.com/www.justinclicks.com",
     "slug": "just-in-clicks-com",
-    "status": "up",
+    "status": "down",
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2985,
     "timeYear": 2255,
     "dailyMinutesDown": {
+      "2022-04-03": 0,
       "2022-03-20": 18,
       "2022-03-14": 19,
       "2022-02-14": 21,
