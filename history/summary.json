@@ -83,9 +83,9 @@
     "url": "https://bank-apis.justinclicks.com/API/V1/",
     "icon": "https://favicons.githubusercontent.com/bank-apis.justinclicks.com",
     "slug": "bank-api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +94,8 @@
     "timeWeek": 714,
     "timeMonth": 265,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
