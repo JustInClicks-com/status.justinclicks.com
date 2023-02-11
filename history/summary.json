@@ -6,15 +6,15 @@
     "slug": "just-in-clicks-com",
     "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "98.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "97.89%",
-    "time": 3782,
-    "timeDay": 12401,
-    "timeWeek": 10756,
-    "timeMonth": 6006,
-    "timeYear": 3919,
+    "time": 3785,
+    "timeDay": 2186,
+    "timeWeek": 10281,
+    "timeMonth": 5957,
+    "timeYear": 3917,
     "dailyMinutesDown": {
       "2023-02-09": 19,
       "2023-02-05": 22,
@@ -59,8 +59,7 @@
       "2022-03-20": 18,
       "2022-03-14": 19,
       "2022-02-14": 21,
-      "2022-02-12": 29,
-      "2022-02-11": 20
+      "2022-02-12": 29
     }
   },
   {
@@ -75,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 103,
-    "timeWeek": 119,
-    "timeMonth": 141,
-    "timeYear": 159,
+    "timeDay": 71,
+    "timeWeek": 100,
+    "timeMonth": 136,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-09-15": 42
     }
