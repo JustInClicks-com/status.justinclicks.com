@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.justinclicks.com.ico",
     "slug": "just-in-clicks-com",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.06%",
@@ -14,7 +14,7 @@
     "timeDay": 407,
     "timeWeek": 247,
     "timeMonth": 1332,
-    "timeYear": 4491,
+    "timeYear": 4498,
     "dailyMinutesDown": {
       "2023-05-08": 442,
       "2023-05-07": 409,
@@ -46,18 +46,19 @@
     "url": "https://bank-apis.justinclicks.com/API/V1/",
     "icon": "https://icons.duckduckgo.com/ip3/bank-apis.justinclicks.com.ico",
     "slug": "bank-api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 154,
-    "timeDay": 129,
-    "timeWeek": 125,
-    "timeMonth": 123,
+    "time": 155,
+    "timeDay": 137,
+    "timeWeek": 128,
+    "timeMonth": 124,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2023-05-16": 0,
       "2022-09-15": 42
     }
   }
