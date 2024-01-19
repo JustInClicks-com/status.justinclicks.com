@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.justinclicks.com.ico",
     "slug": "just-in-clicks-com",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.72%",
     "time": 3795,
-    "timeDay": 2018,
-    "timeWeek": 2366,
-    "timeMonth": 2380,
+    "timeDay": 2122,
+    "timeWeek": 2169,
+    "timeMonth": 2383,
     "timeYear": 3343,
     "dailyMinutesDown": {
       "2024-01-03": 195,
@@ -31,8 +31,7 @@
       "2023-01-25": 15,
       "2023-01-22": 19,
       "2023-01-21": 20,
-      "2023-01-20": 23,
-      "2023-01-19": 32
+      "2023-01-20": 23
     }
   },
   {
@@ -47,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
     "time": 138,
-    "timeDay": 143,
-    "timeWeek": 126,
-    "timeMonth": 151,
+    "timeDay": 101,
+    "timeWeek": 129,
+    "timeMonth": 145,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2023-05-21": 569,
