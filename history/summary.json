@@ -4,7 +4,7 @@
     "url": "https://www.justinclicks.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.justinclicks.com.ico",
     "slug": "just-in-clicks-com",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2194,
     "timeYear": 2107,
     "dailyMinutesDown": {
+      "2024-05-28": 0,
       "2024-05-20": 47,
       "2024-05-19": 8,
       "2024-04-18": 80,
