@@ -46,17 +46,19 @@
     "url": "https://bank-apis.justinclicks.com/API/V1/",
     "icon": "https://icons.duckduckgo.com/ip3/bank-apis.justinclicks.com.ico",
     "slug": "bank-api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 47,
-    "timeWeek": 128,
-    "timeMonth": 135,
+    "timeDay": 104,
+    "timeWeek": 133,
+    "timeMonth": 136,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-14": 0
+    }
   }
 ]
